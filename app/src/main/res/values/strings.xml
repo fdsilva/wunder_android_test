@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wounder Android Test</string>
+    <string name="tab_vehicle_available">Cars</string>
+    <string name="tab_map">Map</string>
+    <!-- Arrays-->
+    <integer-array name="tabIcons">
+        <item>@drawable/ic_car</item>
+        <item>@drawable/ic_cars_location</item>
+    </integer-array>
+
+    <string name="google_maps_key">AIzaSyAioJbnE83ObWlnq6ti6GGFKQlv3q51NnM</string>
+</resources>
